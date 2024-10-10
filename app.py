@@ -3,3 +3,5 @@ def addn(a,b):
 ##hello world
 def subtraction(a,b):
     return a-b
+def division(a,b):
+    return a/b
