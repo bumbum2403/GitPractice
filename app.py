@@ -1,5 +1,5 @@
-def addn(a,b):
-    return a+b
+def addn(a,b,c):
+    return a+b+c
 ##hello world
 def subtraction(a,b,c):
     return a-b-c
